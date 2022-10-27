@@ -1,0 +1,6 @@
+1	恳请	恳请	VV	VV	_	0	ROOT	0:ROOT	_
+2	各位	各位	DT	DT	_	3	det	3:det	_
+3	老师	老师	NN	NN	_	1	dobj	1:dobj|4:nsubj|5:nsubj	_
+4	批评	批评	VV	VV	_	1	ccomp	1:ccomp	_
+5	指正	指正	VV	VV	_	4	compound:vc	4:compound:vc	_
+6	！	！	PU	PU	_	1	punct	1:punct	_

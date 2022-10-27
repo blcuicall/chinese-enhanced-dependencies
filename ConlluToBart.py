@@ -11,3 +11,5 @@ print(converted)
 # use it, probably wanting to write the textual output to a new file
 with open('SD_data/SD_result.conll', "w", encoding = "utf-8") as f:
     f.write(converted)
+
+
