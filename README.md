@@ -30,7 +30,11 @@ with open('result.conll', "w", encoding = "utf-8") as f:
 
 ## 引用
 
+<<<<<<< HEAD
 ```bibtex
+=======
+```tex
+>>>>>>> 1e75576fcacc401ba93b8051ae01af41c892ad5b
 @inproceedings{yu-etal-2022-chinese-enhanced-dependency,
     title = "汉语增强依存句法自动转换研究",
     author = "余, 婧思 and
@@ -77,15 +81,27 @@ The first column is the serial number, the second column is the word, the fourth
 
 ## Citation
 
+<<<<<<< HEAD
 ```bibtex
+=======
+```tex
+>>>>>>> 1e75576fcacc401ba93b8051ae01af41c892ad5b
 @inproceedings{yu-etal-2022-chinese-enhanced-dependency,
     title = "Transformation of Enhanced Dependencies in Chinese",
     author = "Yu, Jingsi and
       Shi, Jialu and
       Yang, Liner and
+<<<<<<< HEAD
       Xiao, dan and
+=======
+      Liao,  and
+>>>>>>> 1e75576fcacc401ba93b8051ae01af41c892ad5b
       Yang, Erhong",
     booktitle = "Proceedings of the 21th Chinese National Conference on Computational Linguistics",
     year = "2022"
 }
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e75576fcacc401ba93b8051ae01af41c892ad5b
